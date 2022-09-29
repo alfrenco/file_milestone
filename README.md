@@ -1,2 +1,2 @@
-# File AirBnB
-File untuk milestone 1 Hacktiv8 Phase 0
+# File Milestone
+File-file untuk milestone Hacktiv8
